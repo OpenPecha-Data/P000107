@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000107
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་ཐམས་ཅད་ཀྱི་སྙིང་པོ་ཕྱག་རྒྱ་ཆེན་པོའི་དོན་ཡང་དག་པ་རབ་ཏུ་གསལ་བར་བྱེད་པ་དྲི་མ་མེད་པའི་སྒྲོན་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-03
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: TSD-TSE-03
 web_metadata:
   title:
     en: The Lamp of Mahamudra:A Clear and Accurate Presentation of Mahamudra, the
